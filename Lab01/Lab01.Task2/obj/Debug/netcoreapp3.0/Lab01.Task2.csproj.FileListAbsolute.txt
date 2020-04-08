@@ -1,0 +1,11 @@
+C:\Users\Roman\source\repos\Labs\Lab01\Lab01.Task2\bin\Debug\netcoreapp3.0\Lab01.Task2.exe
+C:\Users\Roman\source\repos\Labs\Lab01\Lab01.Task2\bin\Debug\netcoreapp3.0\Lab01.Task2.deps.json
+C:\Users\Roman\source\repos\Labs\Lab01\Lab01.Task2\bin\Debug\netcoreapp3.0\Lab01.Task2.runtimeconfig.json
+C:\Users\Roman\source\repos\Labs\Lab01\Lab01.Task2\bin\Debug\netcoreapp3.0\Lab01.Task2.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\Labs\Lab01\Lab01.Task2\bin\Debug\netcoreapp3.0\Lab01.Task2.dll
+C:\Users\Roman\source\repos\Labs\Lab01\Lab01.Task2\bin\Debug\netcoreapp3.0\Lab01.Task2.pdb
+C:\Users\Roman\source\repos\Labs\Lab01\Lab01.Task2\obj\Debug\netcoreapp3.0\Lab01.Task2.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\Labs\Lab01\Lab01.Task2\obj\Debug\netcoreapp3.0\Lab01.Task2.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\Labs\Lab01\Lab01.Task2\obj\Debug\netcoreapp3.0\Lab01.Task2.AssemblyInfo.cs
+C:\Users\Roman\source\repos\Labs\Lab01\Lab01.Task2\obj\Debug\netcoreapp3.0\Lab01.Task2.dll
+C:\Users\Roman\source\repos\Labs\Lab01\Lab01.Task2\obj\Debug\netcoreapp3.0\Lab01.Task2.pdb
