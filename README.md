@@ -18,3 +18,5 @@
    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rvost/MiSZI/master?filepath=Lab05%2FLab05.ipynb)
 6. Лабораторная работа № 6: "Кодирование методом Хэмминга"
    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rvost/MiSZI/master?filepath=Lab06%2FLab06.ipynb)
+7. Лабораторная работа № 7: "Порождающая и проверочная матрица"
+   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rvost/MiSZI/master?filepath=Lab07%2FLab07.ipynb)
