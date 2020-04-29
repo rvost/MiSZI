@@ -1,0 +1,5 @@
+name: miszi-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
