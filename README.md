@@ -16,5 +16,6 @@
 7. [Лабораторная работа № 7: "Порождающая и проверочная матрица"](https://mybinder.org/v2/gh/rvost/MiSZI/master?filepath=Lab07%2FLab07.ipynb)
 8. [Лабораторная работа № 8: "Порождающая и проверочная матрица"](https://mybinder.org/v2/gh/rvost/MiSZI/master?filepath=Lab08%2FLab08.ipynb)
 9. [Лабораторная работа № 9: "Декодирование по синдрому"](https://mybinder.org/v2/gh/rvost/MiSZI/master?filepath=Lab09%2FLab09.ipynb)
+10. [Лабораторная работа № 10: "Кольца"](https://mybinder.org/v2/gh/rvost/MiSZI/master?filepath=Lab10%2FLab10.ipynb)
 
 Открыть репозиторий целиком - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rvost/MiSZI/master)
